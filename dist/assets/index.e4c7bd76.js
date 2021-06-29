@@ -173,7 +173,7 @@ async function load(module, imports) {
 }
 async function init(input) {
   if (typeof input === "undefined") {
-    input = "/assets/wasm_game_of_life_bg.wasm";
+    input = "/vite-wasm-game-of-life/dist/assets/wasm_game_of_life_bg.wasm";
   }
   const imports = {};
   imports.wbg = {};
