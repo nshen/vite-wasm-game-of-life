@@ -1,5 +1,7 @@
 # An example of [vite-plugin-wasm-pack](https://github.com/nshen/vite-plugin-wasm-pack)
 
+[Live demo](http://github.nshen.net/vite-wasm-game-of-life/dist/)
+
 based on [game-of-life tutorial](https://rustwasm.github.io/book/game-of-life/introduction.html)
 
 Game of life rules:
